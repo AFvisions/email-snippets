@@ -7,7 +7,7 @@
 	},
 	"boilerplate": {
 		"prefix": "boilerplate",
-		"body": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html lang=\"en\">\n<head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n  <title>$1</title>\n\n  $2 \n\n</head>\n<body style=\"margin:0; padding:0; background-color:#F2F2F2;\">\n  <center>\n    <table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#F2F2F2\">\n        <tr>\n            <td align=\"center\" valign=\"top\">\n                \n \t\t\t$3              \n \n            </td>\n        </tr>\n    </table>\n  </center>\n</body>\n</html>\n",
+		"body": "",
 		"description": "",
 		"scope": ""
 	},
@@ -31,7 +31,7 @@
 	},
 	"horizontal rule": {
 		"prefix": "@hr",
-		"body": "<div style="margin: 0 20px"><hr style="margin: 50px 0;border-width: 0; background: #000; color: #000; height:1em"></div><div style="margin: 0 20px"><hr style="margin: 50px 0;border-width: 0; background: #000; color: #000; height:1em"></div>",
+		"body": "<div style=\"margin: 0 20px\"><hr style=\"margin: 50px 0;border-width: 0; background: #000; color: #000; height:1em\"></div>\n",
 		"description": "",
 		"scope": ""
 	},
